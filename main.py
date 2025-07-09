@@ -16,4 +16,4 @@ while game:
         if e.type == QUIT:
             game = False
     display.update()
-    clock.tick(FPS)
+    clock.tick(FPS)#发士大夫鬼地方如果和
